@@ -1,0 +1,23 @@
+.App {
+	height: 100vh !important;
+	width: 100%;
+}
+
+.header-top {
+	height: 200px;
+	width: 100%;
+	background: #000000;
+}
+
+.video-div {
+	/* height: 50%; */
+	width: 100%;
+}
+
+#background-video {
+	height: 100%;
+	width: 100%;
+	float: left;
+	top: 0;
+	padding: none;
+}

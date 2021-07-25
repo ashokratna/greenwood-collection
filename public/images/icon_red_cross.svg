@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ee4e12;
+      }
+    </style>
+  </defs>
+  <path id="Cross" class="cls-1" d="M5,6.88,1.88,10,0,8.12,3.12,5,0,1.88,1.88,0,5,3.12,8.12,0,10,1.88,6.88,5,10,8.12,8.12,10Z"/>
+</svg>
